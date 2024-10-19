@@ -30,6 +30,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you added to improve the site's functionality!
+![2024-10-1823-45-52-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6a42bb54-a025-4e20-8625-e4eb2622fb1a)
 
 ## Notes
 
